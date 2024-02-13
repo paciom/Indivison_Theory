@@ -1,4 +1,6 @@
-# Abstract
+# New Theory of Everything - Indivison Theory
+
+## Abstract
 This theory aims to bridge the gap between the Theory of Relativity and Quantum Theory by providing an alternative explanation for the nature of the universe.
 
 This theory can explain:
