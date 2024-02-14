@@ -6,7 +6,7 @@ Author: Xin Feng
 
 # Abstract
 
-This theory aims to bridge the gap between the Theory of Relativity and Quantum Theory by providing an alternative explanation for the nature of the universe.
+This theory proposes a unified framework that seeks to reconcile the principles of the Theory of Relativity and Quantum Mechanics by offering a novel perspective on the cosmos's fundamental nature. 
 
 This theory can explain:
 
