@@ -22,6 +22,6 @@ This theory can explain:
 
 Basic rule of Indivison Theory:
 
-Everything in the universe (including photon, all known particles in Standard Model, electric field, magnetic field, gravity) is made of tiny dots called “Indivison”. All indivisons move through space at a constant speed faster than light and the speed never changes. When changes happen, the total momentum and mass center of any group of indivisons involved in change remains the same.
+Everything in the universe (including photon, all known particles in Standard Model, electric field, magnetic field, gravity) is made of tiny dots called “Indivison”. All indivisons move through space at a constant speed faster than light and the speed never changes. 2 Indivisons can get "entangled" accross unlimited distances. When changes happen, 2 entangled indivisons will swap location(or swap direction, witch has similar effect as swap location). When change happens, the total momentum and mass center of any group of indivisons involved in change remains the same.
 
 The validation of this theory requires significant computational power to simulate its rules. I welcome support from any organizations or individuals willing to sponsor these computing resources and continued research.
