@@ -720,7 +720,6 @@ Let’s use “i” for the speed of indivison, “c” for speed of light.
 
 c \< i \< 2c.
 
-The reason
 
 ## Vacuum Energy
 
