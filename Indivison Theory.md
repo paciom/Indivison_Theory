@@ -286,6 +286,7 @@ Assuming “c” is speed of light. Green dot is the mass center of the 2 dots (
 #### Scenario 1
 
 Let’s assume there is an object, composed of only 2 dots. This object’s “mass” center is stationary (speed is zero). Because all the dots are moving at speed of light, that means the only way the object of 2 dots have mass center to have speed of zero is like this:
+![image](https://github.com/paciom/Indivison_Theory/assets/95523317/17251a05-9f40-4f04-8b4b-3d317ba118bd)
 
 The 2 orange dots are 2 dots traveling the opposite direction, the green dot is the “mass center” having the speed of zero.
 
@@ -294,8 +295,10 @@ The speed of the “size change” of the “two-dot object” is growing at a s
 #### Scenario 2
 
 The “two-dot object” is moving at of speed of 0.5c to the right. That means the mass center (green dot) is moving at 0.5c to the right (red arrow).
+![image](https://github.com/paciom/Indivison_Theory/assets/95523317/d1f45b0f-d891-4d08-b2c2-9576bfe55ca6)
 
 Because the dots still must move at speed c, that means the size change speed of the “two-dot object” is:
+![image](https://github.com/paciom/Indivison_Theory/assets/95523317/d73e89ae-8afd-44d2-88ce-39ffb9b56e60)
 
 Now let’s compare the “Time dilation equation” of Theory of Relativity:
 
@@ -310,8 +313,10 @@ where:
 -   *c* – Speed of light
 
 Using this equation, when the object is moving at 0.5c, the time will slow down to:
+![image](https://github.com/paciom/Indivison_Theory/assets/95523317/096ba779-e5b5-4041-80f6-49f7a96f7745)
 
 Then we can get:
+![image](https://github.com/paciom/Indivison_Theory/assets/95523317/30630641-648e-48c8-8d16-ff0f7f1b4823)
 
 That means our Indivison Theory matches Theory of Relativity perfectly in the micro-level.
 
@@ -322,6 +327,8 @@ When it’s an extreme, when an object is at the speed of light, there can be no
 The red arrow the direction of mass center of the two-dot object, the blue arrows are the directions of the two dots.
 
 The two-dot object is moving to the right at the speed of light, the relative location of the 2 dots never changes, the object’s size never changes. The change of the two-dot object slows down to zero.
+![image](https://github.com/paciom/Indivison_Theory/assets/95523317/018e15c1-be6c-4b19-85f7-49fe73e457e3)
+
 
 In Theory of Relativity, when objects move fast, “time” slows down, as a result, change slows down.
 
@@ -453,7 +460,7 @@ What are the differences between Indivison and Graviton? In some theory, gravito
 
 ### Acceleration of free fall
 
-In Theory of Relativity, there is no difference between an object on surface of earth and the difference of accelerating rocket in space with 9.8 m/. But in Indivison Theory, there is a big difference.
+In Theory of Relativity, there is no difference between an object on surface of earth and the difference of accelerating rocket in space with 9.8 m/(s*s). But in Indivison Theory, there is a big difference.
 
 In Indivison Theory, this is how an object floating in space weightless and not moving relative to the rest of the universe.
 
@@ -713,9 +720,9 @@ Let’s use “i” for the speed of indivison, “c” for speed of light.
 
 1, the speed that is only a little faster than light, maybe 1.00000001 times of light speed. This is actually least likely possibility. For this situation to be true, indivison need to be travel at a direction that is very close to the direction of the photon.
 
-2, i = sqrt(2) * c. I think this is the most likely indivison speed. If on average, the indivisons are traveling 45 degrees of mass center direction. This does not mean all indivisons in photon travel at 45 degrees of mass center direction. From a pure mathematical possibility perspective, some indivisons in a photon could be moving almost parallel (almost zero degrees) with the mass center movement direction; some indivisons could be moving almost 90 degrees of the mass center movement direction. So, on average, the indivisons inside a photon move at 45 degrees of the mass center movement. Each time an indivison is added or removed from a photon, the direction of the photon changes a little to reflect the momentum change.
+2,  ![image](https://github.com/paciom/Indivison_Theory/assets/95523317/eb1f1cdb-b426-43ba-a5b3-fa5fdb8c07ed). I think this is the most likely indivison speed. If on average, the indivisons are traveling 45 degrees of mass center direction. This does not mean all indivisons in photon travel at 45 degrees of mass center direction. From a pure mathematical possibility perspective, some indivisons in a photon could be moving almost parallel (almost zero degrees) with the mass center movement direction; some indivisons could be moving almost 90 degrees of the mass center movement direction. So, on average, the indivisons inside a photon move at 45 degrees of the mass center movement. Each time an indivison is added or removed from a photon, the direction of the photon changes a little to reflect the momentum change.
 
-3, i = (2 * sqrt(3) / 3) * c. This is assuming that the indivisons are traveling about along 3 edges connected by single corner of a cube, and the light direction is from one corner of a cube to the opposite corner of the cube. When indivisons travel along cube edge, they do not travel exactly along cube edge, they could be traveling roughly same direction of a cube edge, but on average, they travel along edges. So 1/3 of indivisons travel along cube edge “a”, 1/3 along edge “b”, 1/3 along edge “c”.
+3, ![image](https://github.com/paciom/Indivison_Theory/assets/95523317/ab86889d-baf9-426e-9209-a0d14a582b20). This is assuming that the indivisons are traveling about along 3 edges connected by single corner of a cube, and the light direction is from one corner of a cube to the opposite corner of the cube. When indivisons travel along cube edge, they do not travel exactly along cube edge, they could be traveling roughly same direction of a cube edge, but on average, they travel along edges. So 1/3 of indivisons travel along cube edge “a”, 1/3 along edge “b”, 1/3 along edge “c”.
 
 4, other speed i \> c. There might be other 3D patterns that indivisons in a photon can move, only indivison simulation that producing photon behaviors can prove the speed of indivisons. Most likely speed is this:
 
@@ -733,6 +740,7 @@ Similar to Vacuum Energy, Virtual Particles are also random indivisons move clos
 ## Particles faster than light
 
 Let’s assume indivisons inside a photon is on average traveling 45 degrees of mass center direction, then another particle with indivisons on average traveling 30 degrees of mass center will be a faster-than-light particle. Indivisons are faster than light, some mini-particles are faster than light.
+![image](https://github.com/paciom/Indivison_Theory/assets/95523317/13a6f6b4-9454-413d-8bd8-eb0d2f1591ea)
 
 Direction vectors (green and blue) of indivison “a” and “b” is turning from yellow arrow clockwise by angle “alpha”, indivison “C” and “D” is turning from yellow arrow counter-clockwise by angle “alpha” (angle between blue and yellow arrows).
 
