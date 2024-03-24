@@ -295,9 +295,11 @@ The speed of the “size change” of the “two-dot object” is growing at a s
 #### Scenario 2
 
 The “two-dot object” is moving at of speed of 0.5c to the right. That means the mass center (green dot) is moving at 0.5c to the right (red arrow).
+
 ![image](https://github.com/paciom/Indivison_Theory/assets/95523317/d1f45b0f-d891-4d08-b2c2-9576bfe55ca6)
 
 Because the dots still must move at speed c, that means the size change speed of the “two-dot object” is:
+
 ![image](https://github.com/paciom/Indivison_Theory/assets/95523317/d73e89ae-8afd-44d2-88ce-39ffb9b56e60)
 
 Now let’s compare the “Time dilation equation” of Theory of Relativity:
@@ -313,9 +315,11 @@ where:
 -   *c* – Speed of light
 
 Using this equation, when the object is moving at 0.5c, the time will slow down to:
+
 ![image](https://github.com/paciom/Indivison_Theory/assets/95523317/096ba779-e5b5-4041-80f6-49f7a96f7745)
 
 Then we can get:
+
 ![image](https://github.com/paciom/Indivison_Theory/assets/95523317/30630641-648e-48c8-8d16-ff0f7f1b4823)
 
 That means our Indivison Theory matches Theory of Relativity perfectly in the micro-level.
@@ -327,6 +331,7 @@ When it’s an extreme, when an object is at the speed of light, there can be no
 The red arrow the direction of mass center of the two-dot object, the blue arrows are the directions of the two dots.
 
 The two-dot object is moving to the right at the speed of light, the relative location of the 2 dots never changes, the object’s size never changes. The change of the two-dot object slows down to zero.
+
 ![image](https://github.com/paciom/Indivison_Theory/assets/95523317/018e15c1-be6c-4b19-85f7-49fe73e457e3)
 
 
@@ -740,6 +745,7 @@ Similar to Vacuum Energy, Virtual Particles are also random indivisons move clos
 ## Particles faster than light
 
 Let’s assume indivisons inside a photon is on average traveling 45 degrees of mass center direction, then another particle with indivisons on average traveling 30 degrees of mass center will be a faster-than-light particle. Indivisons are faster than light, some mini-particles are faster than light.
+
 ![image](https://github.com/paciom/Indivison_Theory/assets/95523317/13a6f6b4-9454-413d-8bd8-eb0d2f1591ea)
 
 Direction vectors (green and blue) of indivison “a” and “b” is turning from yellow arrow clockwise by angle “alpha”, indivison “C” and “D” is turning from yellow arrow counter-clockwise by angle “alpha” (angle between blue and yellow arrows).
