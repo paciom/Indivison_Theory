@@ -238,7 +238,8 @@ The previous is the one-dimensional version.
 
 This is the two-dimensional version.
 
-All 4 indivisons are on same plane, also on same straight line, shrink all distance between the indivisons by multiplying sqrt(2)/2. In following diagram, both vertical and horizontal axis are space. Horizontal direction is the direction of movement of mass center (a, b, C, and D). All 4 indivisons starts at column B. Indivison a and b travel 45 degrees south-east, indivison C and D travel 45 degrees north-east. Each of the indivison travel at speed 1, the mass center of the particle quaton travels at speed sqrt(2)/2.
+All 4 indivisons are on same plane, also on same straight line, shrink all distance between the indivisons by multiplying  ![image](https://github.com/paciom/Indivison_Theory/assets/95523317/30f69cd6-fe57-4fe7-a512-14b47660d5d1). In following diagram, both vertical and horizontal axis are space. Horizontal direction is the direction of movement of mass center (a, b, C, and D). All 4 indivisons starts at column B. Indivison a and b travel 45 degrees south-east, indivison C and D travel 45 degrees north-east. Each of the indivison travel at speed 1, the mass center of the particle quaton travels at speed  ![image](https://github.com/paciom/Indivison_Theory/assets/95523317/30f69cd6-fe57-4fe7-a512-14b47660d5d1)
+.
 
 ![](media/2c74168a34e954a588050e297e0e1def.png)
 
