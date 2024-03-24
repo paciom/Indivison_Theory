@@ -99,8 +99,6 @@ With enough computing resource, hopefully we can create bigger particles like ph
 
 3D Simulation Video:
 
-<https://drive.google.com/file/d/1-NT6axp0BxPC6PSeBiCsHZ2BEwrhWuKJ/view?usp=sharing>
-
 <https://drive.google.com/file/d/1-PPGXVBGOBfhkAWeP3J2teoqUoxEQqs7/view?usp=sharing>
 
 As we can see, randomly formed particles have different patterns and shapes. I think it’s like rocks in space, when they are small (a few centimeters to a few kilometers, they all have different shapes. When space objects are big (moons, planets, and stars), they all look like a sphere. I think particles are similar, when a particle contains a few or a few dozens of indivisons, they all have different patterns and shapes; when a particle contains millions, billions, or trillions of indivisons, they will all look similar (electrons, protos etc).
