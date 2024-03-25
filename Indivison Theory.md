@@ -96,6 +96,7 @@ In this code, each time the simulator found a particle that contains more than 5
 With enough computing resource, hopefully we can create bigger particles like photons, electrons, and protons.
 
 ![](media/17d91fdae58986a9da66a477d4bdb64d.png)
+(In this picture, triangles are indivisons. I use triangles only because it is the fastest to render in 3D simulation.)
 
 3D Simulation Video:
 
