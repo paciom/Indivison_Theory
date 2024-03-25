@@ -341,7 +341,7 @@ In Theory of Relativity, when objects move fast, “time” slows down, as a res
 
 In Indivison Theory, when objects move fast, “internal eletromagnetic changes” slows down, time does not slow down.
 
-In Indivison Theory, the “dots” previous mentioned are Photons, and other particles travelling similar speed as photons. The dots can also be a group of indivisons (particles made of indivisons).
+In Indivison Theory, the “dots” previous mentioned are Photons, and other particles travelling **similar**(they could be a little faster than light, or a little slower than light, on average, they are at light speed) speed as photons. The dots can also be a group of indivisons (particles made of indivisons).
 
 ## What is photon?
 
