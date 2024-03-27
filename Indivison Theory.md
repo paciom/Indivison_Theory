@@ -145,6 +145,31 @@ This is how indivisons work.
 
 Let’s assume two unentangled indivisons A and B running in straight line. A and B collide in space. When they collide, A and B do not change speed or direction, they keep moving in straight line. After A and B collide, A and B become “entangled”. When later dot B collides with dot C, A and B swap locations, while keeping their speed and direction unchanged.
 
+## Indivisible
+
+The reason I think if an object is not divisible, it must cannot change speed and direction.
+
+In Theory of Relativity, mass is energy, energy is mass.
+
+Assuming an particle X not divisible, and it can have different speed, then there can be 2 difference speed S1 and S2. Question: what is difference between X at speed s1 and X at speed s2? There must be something inside X that make X different at s1 and s2, that also means X must have some internal structure that makes it different speed because it has different energy level, that means it has different mass, we cann't say X is has identical internal at s1 and s2 because it would be self contradicting: 
+
+* 2 grams = 3 grams
+* 2 joules = 3 joules
+
+How can an object with 2 grams of mass has unchanged internal structure as an object with 3 grams of mass?
+How can an object with 2 joules of energy has unchanged internal structure as an object with 3 joules of energy?
+
+
+
+Similarly, if a object X can change direction, then there must be something different inside X at direction d1 and direction d2.
+
+If you understand this logic, anything can change direction and speed  is divisible.
+
+That also means anything indivisible cannot change direction or speed.
+
+What about location? If an object change location, does it has internal structure difference at position p1 and position p2?
+Answer is: it does not need to have any internal difference because nothing really changed for X internally, the energy, the mass, the momentum all stays constant, energy is conserved, momentum is conserved. The location change is actually an "external" change, not "internal" change because the relative position with reference frame.
+
 ## Simplicity, Elegance, and Beauty
 
 This theory is so simple, so elegant, and so beautiful, it almost feels criminal if this theory is not true. Simplicity, elegance, and beauty do not guarantee it’s true, but they do increase the likelihood that it is true.
