@@ -647,6 +647,13 @@ In Indivison Theory, a photon should be considered similar to a flying and spinn
 
 The more indivisons get knocked off the photon, the less dots a photon has, the less energy a photon has, the longer the wavelength a photon has.
 
+This explanation is similar to "Tired Photon".
+Reason agains "Tired Photon": 
+Photon Interaction Predictions: For photons to lose energy as proposed, interactions with matter or particles would produce observable secondary effects, such as blurring or scattering of images from distant galaxies. Such effects are not observed to the extent predicted.
+We all see a school of fish swim in similar direction. Individual fish swim randomly, but when fish swim in a group, their directions are influenced by each other. That is why single photon might be hit by an indivison and change direction, but a group of photons travel together their directions influence each other and they maintain their overal direction.
+
+
+
 ### Experiments
 
 Experiments which can potentially prove light Wear-and-tear redshift when passing through indivison field.
